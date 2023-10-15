@@ -33,11 +33,11 @@ Content-Length: 0
 password=-1' OR 3*2*1=6 AND 1=1 --+ &username=qeNtfPNC
 ```
 
-![image-20231015182149405](Judging Management System_SQL injection.assets/image-20231015182149405.png)
+![image-20231015182149405](https://github.com/GodRone/Judging-Management-System_SQL-injection/blob/main/Judging%20Management%20System_SQL%20injection.assets/image-20231015182149405.png)
 
-![image-20231015182202919](Judging Management System_SQL injection.assets/image-20231015182202919.png)
+![image-20231015182202919](https://github.com/GodRone/Judging-Management-System_SQL-injection/blob/main/Judging%20Management%20System_SQL%20injection.assets/image-20231015182202919.png)
 
-![image-20231015221910813](Judging Management System_SQL injection.assets/image-20231015221910813.png)
+![image-20231015221910813](https://github.com/GodRone/Judging-Management-System_SQL-injection/blob/main/Judging%20Management%20System_SQL%20injection.assets/image-20231015221910813.png)
 
 
 
